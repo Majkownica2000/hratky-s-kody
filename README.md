@@ -1,2 +1,2 @@
-# hratky-s-kody
+# hra-s-kody
 ukol: vyresit ulohy v prezentaci
